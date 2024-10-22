@@ -19,7 +19,7 @@
 		"@react-native-async-storage/async-storage": "1.23.1",
 		"@react-native-community/netinfo": "11.3.1",
 		"@react-navigation/native": "^6.0.2",
-		"@thirdweb-dev/react-native-adapter": "^1.4.0",
+		"@thirdweb-dev/react-native-adapter": "1.5.0",
 		"amazon-cognito-identity-js": "^6.3.12",
 		"expo": "51.0.32",
 		"expo-application": "5.9.1",
@@ -49,7 +49,7 @@
 		"react-native-screens": "3.34.0",
 		"react-native-svg": "15.2.0",
 		"react-native-web": "0.19.12",
-		"thirdweb": "^5.62.0"
+		"thirdweb": "5.63.2"
 	},
 	"devDependencies": {
 		"@babel/core": "^7.20.0",
